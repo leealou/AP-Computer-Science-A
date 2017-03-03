@@ -1,2 +1,2 @@
 # AP-Computer-Science-A
-2016-2017 APCSA Assignments
+2016-2017 major APCSA assignments.
