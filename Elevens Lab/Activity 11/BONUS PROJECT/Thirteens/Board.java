@@ -182,5 +182,3 @@ public abstract class Board {
 		}
 	}
 }
-Contact GitHub API Training Shop Blog About
-© 2017 GitHub, Inc. Terms 
